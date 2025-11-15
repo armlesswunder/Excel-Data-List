@@ -2,6 +2,8 @@
 
 Windows and Android app that lets you quickly create checklists/guides for games. 
 
+https://github.com/user-attachments/assets/eaa97ea6-18b4-4b57-a8af-9896467e4382
+
 ### IMPRORTANT!!!
 Make a backup of your sheets before you use them with this app! This app automatically deletes and updates data using its own underlying logic! You may lose valuable data if you use this app with any sheet! 
 
